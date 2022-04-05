@@ -1,0 +1,21 @@
+.b1{
+     margin: 20px;
+     background-color: blue;
+     color: white;
+     border-radius:  5px;
+     border-color: blue;
+     width: fit-content;
+     
+
+}
+.b2{
+    margin: 20px;
+    background-color: red;
+    color: white;
+    border-radius:  5px;
+    border-color: red;
+    
+}
+body{
+    background-color: lightblue;
+}
